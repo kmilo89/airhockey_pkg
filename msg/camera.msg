@@ -1,0 +1,6 @@
+geometry_msgs/Vector3 pos_disk
+geometry_msgs/Vector3 pos_puck
+float32 area_disk
+float32 area_puck
+bool found_disk
+bool found_puck
